@@ -1,0 +1,115 @@
+[
+  {
+    "title": "Yeni Başlayanlar İçin YZ: Sınavlar",
+    "complete": "Tebrikler, sınavı tamamladınız!",
+    "error": "Üzgünüz, tekrar deneyin",
+    "quizzes": [
+      {
+        "id": 105,
+        "title": "Sinir Ağları: Ön Sınav",
+        "quiz": [
+          {
+            "questionText": "Derin sinir ağı eğitimi çok sayıda hesaplama gerektirir",
+            "answerOptions": [
+              {
+                "answerText": "Doğru",
+                "isCorrect": true
+              },
+              {
+                "answerText": "Yanlış",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "questionText": "Aşırı öğrenme olmasının nedeni ____",
+            "answerOptions": [
+              {
+                "answerText": "yetersiz test verisi",
+                "isCorrect": false
+              },
+              {
+                "answerText": "çok güçlü model",
+                "isCorrect": true
+              },
+              {
+                "answerText": "çıktı verisindeki çok fazla gürültü",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "questionText": "Yanlılık hataları, ____ eğitim verileri arasındaki ilişkiyi doğru bir şekilde yakalayamadığından kaynaklanır.",
+            "answerOptions": [
+              {
+                "answerText": "model",
+                "isCorrect": false
+              },
+              {
+                "answerText": "algoritma",
+                "isCorrect": true
+              },
+              {
+                "answerText": "bilgisayar",
+                "isCorrect": false
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 205,
+        "title": "Çerçeveler: Ders Sonrası Sınavı",
+        "quiz": [
+          {
+            "questionText": "Model nesnemizi derledikten sonra ____ fonksiyonunu çağırarak eğitiyoruz.",
+            "answerOptions": [
+              {
+                "answerText": "fit (uydur)",
+                "isCorrect": true
+              },
+              {
+                "answerText": "train (eğit)",
+                "isCorrect": false
+              },
+              {
+                "answerText": "teach (öğret)",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "questionText": "İkili çapraz entropi aynı zamanda logaritme kaybı olarak da adlandırılır.",
+            "answerOptions": [
+              {
+                "answerText": "Doğru",
+                "isCorrect": true
+              },
+              {
+                "answerText": "Yanlış",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "questionText": "TensorFlow ____  PyTorch ____ tarafından geliştirilmiştir.",
+            "answerOptions": [
+              {
+                "answerText": "Facebook, Google",
+                "isCorrect": false
+              },
+              {
+                "answerText": "Google, Facebook",
+                "isCorrect": true
+              },
+              {
+                "answerText": "Microsoft, Google",
+                "isCorrect": false
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
